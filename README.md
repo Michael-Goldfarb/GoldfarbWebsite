@@ -1,4 +1,4 @@
-# Personal Website
+# GoldfarbWebsite
 <h1 align="center">PERSONAL WEBSITE</h1>
 
 <p align="center">
