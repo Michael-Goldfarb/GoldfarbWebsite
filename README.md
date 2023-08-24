@@ -4,7 +4,7 @@
 <p align="center">
   <img width="1185" alt="Home Page" src="https://github.com/Michael-Goldfarb/GoldfarbWebsite/assets/66848094/56694fcf-e1fa-473c-a54d-1336083c5ecf">
   <br>
-  <em>Here is a picture of my Website!.</em>
+  <em>Here is a picture of my Website! To run the website, follow the steps below!</em>
 </p>
 
 ## How to Use:
