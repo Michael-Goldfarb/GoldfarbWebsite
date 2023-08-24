@@ -2,7 +2,7 @@
 <h1 align="center">PERSONAL WEBSITE</h1>
 
 <p align="center">
-  <img width="1185" alt="Home Page" src="https://github.com/Michael-Goldfarb/GoldfarbWebsite/assets/66848094/c85a9b74-f328-46a5-a2c7-7b0df8beba9d">
+  <img width="1185" alt="Home Page" src="https://github.com/Michael-Goldfarb/GoldfarbWebsite/assets/66848094/750e4c4e-311b-449e-a4cb-e61914e4f3f2">
   <br>
   <em>Here is a picture of my Website! To run the website, follow the steps below!</em>
 </p>
